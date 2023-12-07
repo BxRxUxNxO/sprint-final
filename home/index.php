@@ -9,9 +9,9 @@
 <a href="../home/index.php"><img src="../img/logo.png" alt="Descrição da imagem">
   </a>
 <body><br><br>
-  <h1>Perfil de Usuário</h1><br><br>
+  <h1>Perfil de Usuário</h1><br>
 <img src="../img/foto mulher.png" class="mulher" alt="">
-<br>
+<br><br>
 <h4>Biografia</h4>
 <br><br>
 <h4>Qualidades</h4>
@@ -44,5 +44,7 @@
   <label for="idade">Idade:</label>
   <input type="number" id="idade" name="idade" required><br><br>
 </form>
+<!-- Div para o semi-círculo -->
+<div class="semi-circle"></div>
 </body>
 </html>
